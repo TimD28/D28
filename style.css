@@ -290,7 +290,7 @@ header .header-right a:hover {
   margin-right: 15px;
   width: 320px;
   height: 240px;
-  background: url(/path.png) center center no-repeat;
+  background: url(path.png) center center no-repeat;
   animation: shake1 5s infinite;
 }
 
@@ -557,7 +557,7 @@ footer .right span {
   #landing {
     min-height: 700px;
     padding-top: 180px;
-    background: url(/blob.png) 50vw center no-repeat,
+    background: url(blob.png) 50vw center no-repeat,
       linear-gradient(cyan, #e5f507 0%, #04bd1c);
   }
 
